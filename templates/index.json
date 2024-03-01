@@ -9,8 +9,7 @@
             "heading": "Des moments délicieux <br>Thés et infusions bio",
             "description": "Nous sommes des épicuriens exigeants! des amoureux <br> \ndu goût, des couleurs, des plantes qui font du bien.",
             "cta_text": "Voir tous les produits",
-            "cta_link": "#",
-            "image_desktop": "shopify:\/\/shop_images\/Aspect_Ratio_Spacer.jpg"
+            "cta_link": "#"
           }
         },
         "content_FGCYF6": {
@@ -57,40 +56,35 @@
           "type": "icon",
           "settings": {
             "heading": "Cultivé naturellement",
-            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>",
-            "row_icon_image": "shopify:\/\/shop_images\/Frame_9545_1.svg"
+            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>"
           }
         },
         "template--15978344546484__c4e8f06a-2f8e-4481-a189-9da4765b273f-16818493522cff988a-1": {
           "type": "icon",
           "settings": {
             "heading": "Mélangeur à main",
-            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>",
-            "row_icon_image": "shopify:\/\/shop_images\/Frame_9545_2.svg"
+            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>"
           }
         },
         "template--15978344546484__c4e8f06a-2f8e-4481-a189-9da4765b273f-16818493522cff988a-2": {
           "type": "icon",
           "settings": {
             "heading": "Différentes saveurs",
-            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>",
-            "row_icon_image": "shopify:\/\/shop_images\/Frame_9545_3.svg"
+            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>"
           }
         },
         "template--15978344546484__c4e8f06a-2f8e-4481-a189-9da4765b273f-16818493522cff988a-3": {
           "type": "icon",
           "settings": {
             "heading": "Made in France",
-            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>",
-            "row_icon_image": "shopify:\/\/shop_images\/Frame_9545_4.svg"
+            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>"
           }
         },
         "bb9d738c-6b54-4e34-86ff-3492ead1ee58": {
           "type": "icon",
           "settings": {
             "heading": "Différents packaging",
-            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>",
-            "row_icon_image": "shopify:\/\/shop_images\/Frame_9545_5.svg"
+            "row_icon_description": "<p>Rigorously tried, tested and customer approved.<\/p>"
           }
         }
       },
@@ -118,7 +112,6 @@
         "dual_section_titleCTA": "Go to checkout",
         "dual_section_linkCTA": "",
         "position_image": "left",
-        "image_brackground": "shopify:\/\/shop_images\/2.svg",
         "dual_section_subtitle": "",
         "dual_section_description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede.<\/p>"
       }
@@ -135,7 +128,7 @@
         "dual_section_linkCTA": "",
         "position_image": "right",
         "dual_section_subtitle": "<p>lorem ipsum<\/p>",
-        "dual_section_description": "<p><strong>Lorem ipsum dolor sit amet <\/strong><em>consectetur adipiscing<\/em> <a href=\"\/collections\/all\" title=\"All\">elit<\/a><\/p>"
+        "dual_section_description": "<p><strong>Lorem ipsum dolor sit amet <\/strong><em>consectetur adipiscing<\/em> <\/p>"
       }
     },
     "4ffec980-e8ab-422b-94db-60e50771a7cd": {
