@@ -11,5 +11,40 @@
     {% render 'link', url: section.settings.link, content: section.settings.link_text, class: 'btn-1' %}
   {% endif %}
 </div>
-
-Invalid schema: setting with id="link" default debe ser una cadena o una ruta de acceso de fuente de datos.
+{% schema %}
+{
+  "name": "Title section",
+  "tag": "section",
+  "class": "title-section",
+  "settings": [
+      {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Title"
+      },
+      {
+          "type": "text",
+          "id": "link",
+          "label": "Link",
+          "default": "cta"
+      },
+      {
+          "type": "text",
+          "id": "link_text",
+          "label": "Link text",
+          "default": "Link"
+      }
+  ],
+  "presets": [
+    {
+      "name": "Title section",
+      "settings": {
+          "title": "Title",
+          "link": "www.google.com",
+          "link_text": "Link"
+      }
+    }
+  ]
+}
+{% endschema %}
