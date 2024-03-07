@@ -8,15 +8,6 @@
         "link_text": "Your Link Text"
       }
     },
-    "hero_simple_GRwV8T": {
-      "type": "hero-simple",
-      "settings": {
-        "hero_title": "Title hero responsive",
-        "hero_description": "<p>Hello <em>hero<\/em> <strong>banner <\/strong><a href=\"\/collections\/all\" title=\"All\"><strong>link<\/strong><\/a><\/p>",
-        "title_CTA": "CTA",
-        "link_CTA": ""
-      }
-    },
     "c4e8f06a-2f8e-4481-a189-9da4765b273f": {
       "type": "multi-icon-row",
       "blocks": {
@@ -64,7 +55,7 @@
         "bb9d738c-6b54-4e34-86ff-3492ead1ee58"
       ],
       "settings": {
-        "heading": "Simples, originales et intenses.",
+        "heading": "",
         "slider_mobile": true,
         "section_margin": true
       }
@@ -87,7 +78,6 @@
   },
   "order": [
     "title-section",
-    "hero_simple_GRwV8T",
     "c4e8f06a-2f8e-4481-a189-9da4765b273f",
     "9ff7a25e-e105-49ba-b268-be58e10ab5ff"
   ]
