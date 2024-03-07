@@ -1,6 +1,15 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
-{% endschema %}
+<div
+  class="main__title__section"
+>
+  {% if section.settings.title != blank %}
+    <h1>
+      {{ section.settings.title }}
+    </h1>
+  {% endif %}
+
+  {% if section.settings.link != blank and section.settings.link_text != blank %}
+    {% render 'link', url: section.settings.link, content: section.settings.link_text, class: 'btn-1' %}
+  {% endif %}
+</div>
+
+Invalid schema: setting with id="link" default debe ser una cadena o una ruta de acceso de fuente de datos.
