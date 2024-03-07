@@ -2,6 +2,10 @@
   "sections": {
     "title-section": {
       "type": "title-section",
+      "custom_css": [
+        "h1{text-align: center}",
+        ".main__title__section{height:auto; padding: 20px;}"
+      ],
       "settings": {
         "title": "Yaaaaaaaaaaaaaaaaa",
         "link": "asds",
