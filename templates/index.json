@@ -1,5 +1,13 @@
 {
   "sections": {
+    "title-section": {
+      "type": "title-section",
+      "settings": {
+        "title": "Your Title",
+        "link": "",
+        "link_text": "Your Link Text"
+      }
+    },
     "hero_simple_GRwV8T": {
       "type": "hero-simple",
       "settings": {
@@ -78,6 +86,7 @@
     }
   },
   "order": [
+    "title-section",
     "hero_simple_GRwV8T",
     "c4e8f06a-2f8e-4481-a189-9da4765b273f",
     "9ff7a25e-e105-49ba-b268-be58e10ab5ff"
